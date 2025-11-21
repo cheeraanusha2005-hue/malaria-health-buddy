@@ -1,0 +1,4 @@
+project_id = "lvzqtzdbgluotmqzbalu"
+
+[functions.malaria-chat]
+verify_jwt = false
